@@ -4,9 +4,11 @@
 <table>
   <tr>
     <th>frogo-mask-cool</th>
+    <th>frogo-bike-helm</th>
   </tr>
   <tr>
     <td><img width="200px" height="360px" src="frogo-mask/result.gif"></td>
+    <td><img width="200px" height="360px" src="frogo-bike-helm/result.gif"></td>
   </tr>
 </table>
 
